@@ -1,7 +1,7 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-Fix the flow van mijn overzichtspagina
+# Fix the flow van mijn overzichtspagina
+
 
 ## Gebruiker
 De gebruikers van mijn overzichtspagina zijn de mensen die een boek hebben gereserveerd en op zoek zijn naar gerelateerde activiteiten van de reservaties.
