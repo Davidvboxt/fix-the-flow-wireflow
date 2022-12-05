@@ -12,7 +12,7 @@ Als OBA lid wil ik als ik boeken op de reserveringslijst plaats, gewezen worden 
 
 ## Wireflow
 
-![Uploading wireframe.jpg…]()
+![wireframe](https://user-images.githubusercontent.com/112856021/205629055-d40ca434-9dd3-4f53-b5f3-a51c4514436c.jpg)
 
 
 
