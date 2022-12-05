@@ -1,18 +1,21 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Titel
-<!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
+Fix the flow van mijn overzichtspagina
 
 ## Gebruiker
-<!-- Het is duidelijk wie de gebruiker is -->
+De gebruikers van mijn overzichtspagina zijn de mensen die een boek hebben gereserveerd en op zoek zijn naar gerelateerde activiteiten van de reservaties.
 
 ## User Story
-<!-- Er is een User Story geschreven van de interactie -->
+User story #7
+Als OBA lid wil ik als ik boeken op de reserveringslijst plaats, gewezen worden op relevante activiteiten.
 
 ## Wireflow
-<!-- Toon de wireflow -->
 
- 
+![Uploading wireframe.jpg…]()
+
+
+
 
 ## Licentie
 
